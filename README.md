@@ -10,9 +10,9 @@ Welcome to my GitHub portfolio! I’m a Senior Software Engineer with over 9 yea
 	•	📈 Strong background in backend development, database architecture (MSSQL, PostgreSQL, Oracle), and real-time data processing.
 	•	🤝 I believe in the power of teamwork and collaboration to create meaningful products.
 
-##Key Projects
+## Key Projects
 
-###Real-Time Betting Platform
+### Real-Time Betting Platform
 
 Developed for the second-largest sports betting system in Asia (football-focused)
 
@@ -20,21 +20,21 @@ Developed for the second-largest sports betting system in Asia (football-focused
 	•	Optimized real-time data streaming for live betting using WebSockets and SQL procedures.
 	•	Achieved 30% reduction in system latency for millions of concurrent users.
 
-###Task Management Tool (Similar to Linear.app)
+### Task Management Tool (Similar to Linear.app)
 
 Built a real-time project management tool focused on user productivity and collaboration
 
 	•	Full-stack development using React and Node.js, with real-time updates powered by WebSockets.
 	•	Led a team to build and deploy a microservices-based architecture, improving scalability by 50%.
 
-###Securities Trading System
+### Securities Trading System
 
 Developed for the Vietnam market to process high-frequency trades
 
 	•	Designed and optimized backend processes and database architecture, improving trade execution speed by 15%.
 	•	Led a small team in the second year to deliver critical system features.
 
-##Tech Stack
+## Tech Stack
 
 	•	Frontend: React, Next.js, HTML, CSS, Tailwind CSS
 	•	Backend: Node.js, Express.js, GraphQL, REST APIs
@@ -42,7 +42,7 @@ Developed for the Vietnam market to process high-frequency trades
 	•	Cloud: AWS, GCP, Docker, Kubernetes
 	•	CI/CD: GitLab CI, GitHub Actions, Jenkins
 
-##Get in Touch
+## Get in Touch
 
 Feel free to explore my projects and reach out if you’d like to collaborate or discuss anything tech-related:
 
