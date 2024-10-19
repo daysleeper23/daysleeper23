@@ -68,12 +68,6 @@ Developed for the Vietnam market to process high-frequency trades
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-	•	Frontend: React, Next.js, HTML, CSS, Tailwind CSS
-	•	Backend: Node.js, Express.js, GraphQL, REST APIs
-	•	Databases: MSSQL, PostgreSQL, Oracle PL/SQL, MongoDB
-	•	Cloud: AWS, GCP, Docker, Kubernetes
-	•	CI/CD: GitLab CI, GitHub Actions, Jenkins
-
 ## Get in Touch
 
 Feel free to explore my projects and reach out if you’d like to collaborate or discuss anything tech-related:
