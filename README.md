@@ -1,6 +1,4 @@
-# Here’s a README file for the GitHub portfolio of the software engineer:
-
-Hi, I’m Luu Dao 👋
+#Hi, I’m Luu Dao 👋
 
 Welcome to my GitHub portfolio! I’m a Senior Software Engineer with over 9 years of experience working across industries like project management, financial services, and sports betting. My passion lies in building high-performance, scalable systems and contributing to impactful products.
 
