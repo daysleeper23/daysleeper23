@@ -12,6 +12,7 @@ Welcome to my GitHub portfolio! I’m a Senior Software Engineer with over 9 yea
 
 ## Key Projects
 
+<!---
 ### Real-Time Betting Platform
 
 Developed for the second-largest sports betting system in Asia (football-focused)
@@ -19,8 +20,8 @@ Developed for the second-largest sports betting system in Asia (football-focused
 	•	Architected the backend with MSSQL to handle all server-side logic.
 	•	Optimized real-time data streaming for live betting using WebSockets and SQL procedures.
 	•	Achieved 30% reduction in system latency for millions of concurrent users.
-
-### Task Management Tool (Similar to Linear.app)
+-->
+### Task Management Tool
 
 Built a real-time project management tool focused on user productivity and collaboration
 
