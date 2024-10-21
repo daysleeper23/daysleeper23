@@ -35,7 +35,9 @@ Developed for the Vietnam market to process high-frequency trades
 	•	Designed and optimized backend processes and database architecture, improving trade execution speed by 15%.
 	•	Led a small team in the second year to deliver critical system features.
 
-## Tech Stack
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide=css,html)
 
 ## Tech Stack
 
